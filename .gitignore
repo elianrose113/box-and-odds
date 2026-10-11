@@ -1,0 +1,14 @@
+.godot/
+build/
+*.tmp
+*.bak
+.DS_Store
+
+# Local credentials, logs and exported binaries
+.env
+.env.*
+*.log
+*.pck
+*.exe
+*.zip
+export_credentials.cfg
